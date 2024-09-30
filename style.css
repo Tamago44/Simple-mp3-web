@@ -1,0 +1,39 @@
+body{
+  background-image: url(Dionela.jpeg);
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  background-size:cover;
+}
+.header{
+  display:flex;
+  background-color:#ACAFD2;
+  position:fixed;
+  top:0;
+  text-align:center;
+  height:38px;
+  width:100%;
+  align-items:center;
+  vertical-align:center;
+  justify-content:center;
+ 
+}
+.text{
+  font-size:27px;
+  margin:0;
+}
+.music{
+  display:flex;
+  text-align:center;
+  vertical-align:center;
+  align-items:center;
+  font-size: 18px;
+}
+.Aud{
+  align-items: center ;
+}
+.container{
+  position:fixed;
+  top:100px;
+  left:250px;
+}
